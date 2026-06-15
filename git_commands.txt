@@ -19,3 +19,27 @@
   20 rm .\testing.py
   21 git status
   22 git restore testing.py
+  23 git push -u origin main
+  git push origin main
+   4 git config --global user.name
+   5 git config --global user.email
+   6 git config --global user.name "mofarhankhan"
+   7 git config --global user.email "khanbhaijaan842@gmail.com"
+   8 git push origin main
+   9 git remote add origin https://github.com/mofarhankhan/gitHub-for-devops.git
+  10 git push -u origin main
+  11 clear
+  12 git config --global user.name
+  13 git config --global user.email
+  14 git remote -v
+  15 git push -u origin main
+  16 git config --global user.name "mofarhankhan"
+  17 git config --global user.email "khanbhaijaan842@gmail.com"
+  18 clear
+  19 git push -u origin main
+  20 git remote add origin https://github.com/mofarhankhan/gitHub-for-devops.git
+  21 git push -u origin main
+  22 git remote -v
+  23 git push -u origin main
+  24 clear
+  25 git push -u origin main
